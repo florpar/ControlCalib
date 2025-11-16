@@ -1,0 +1,1 @@
+move /y C:\GammaControl\controlgeneral.rpt C:\GammaControl\controlgeneral.txt

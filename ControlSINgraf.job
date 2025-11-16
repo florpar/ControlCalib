@@ -1,0 +1,6 @@
+RECALL_ROI "C:\Librerias\EuControlROI.LIB"
+REPORT "C:\GammaControl\controlgeneral.rpt"
+RUN "C:\ProgramControl\reporteatextof.bat"
+WAIT "C:\ProgramControl\reporteatextof.bat"
+RUN "C:\ProgramControl\datatest2.exe"
+WAIT "C:\ProgramControl\datatest2.exe"

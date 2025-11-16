@@ -1,0 +1,4 @@
+output_file=C:\calicalib\output7.xlsx
+output_dir=C:\calicalib\det7
+copy_output_file=C:\calicalibcopy\det7\copy_output7.xlsx
+backup_file=C:\calicalib\det7\backup_output7.xlsx
